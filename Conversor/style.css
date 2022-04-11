@@ -1,0 +1,14 @@
+main{
+   text-align: center;
+   display:flex;
+    align-items: center;
+}
+.box{
+
+    padding-top:10px;
+    
+}
+.inputDiv{
+    
+    border-radius:8rem;
+}
