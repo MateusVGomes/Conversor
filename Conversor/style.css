@@ -1,6 +1,10 @@
 main{
-   text-align: center;
-   display:flex;
+    text-align: center;
+    display:flex;
+}
+section{
+    text-align: center;
+    display:flex;
     align-items: center;
 }
 .box{
